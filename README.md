@@ -8,3 +8,5 @@ Microcontroladores con el Profesor Víctor Hugo en el semestre 21/2
  - Tarea 5: Display de la cadena "IPN" en un LCD 16x2
  - Tarea 6: Timer de 24 horas empleando interrupciones
  - Tarea 7: Implementación del UART para escribir una cadena empleando mediante un archivo c en la computadora
+
+(En la Tarea 7 deje una ejecutable ya que el UART no jalaba utilicé el de un compañero)
